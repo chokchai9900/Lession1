@@ -1,0 +1,11 @@
+C:\Users\chokc\source\repos\Lession1\bin\Debug\netcoreapp3.0\Lession1.exe
+C:\Users\chokc\source\repos\Lession1\bin\Debug\netcoreapp3.0\Lession1.deps.json
+C:\Users\chokc\source\repos\Lession1\bin\Debug\netcoreapp3.0\Lession1.runtimeconfig.json
+C:\Users\chokc\source\repos\Lession1\bin\Debug\netcoreapp3.0\Lession1.runtimeconfig.dev.json
+C:\Users\chokc\source\repos\Lession1\bin\Debug\netcoreapp3.0\Lession1.dll
+C:\Users\chokc\source\repos\Lession1\bin\Debug\netcoreapp3.0\Lession1.pdb
+C:\Users\chokc\source\repos\Lession1\obj\Debug\netcoreapp3.0\Lession1.csprojAssemblyReference.cache
+C:\Users\chokc\source\repos\Lession1\obj\Debug\netcoreapp3.0\Lession1.AssemblyInfoInputs.cache
+C:\Users\chokc\source\repos\Lession1\obj\Debug\netcoreapp3.0\Lession1.AssemblyInfo.cs
+C:\Users\chokc\source\repos\Lession1\obj\Debug\netcoreapp3.0\Lession1.dll
+C:\Users\chokc\source\repos\Lession1\obj\Debug\netcoreapp3.0\Lession1.pdb
